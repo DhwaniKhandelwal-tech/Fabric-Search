@@ -1,0 +1,19 @@
+# ── Core API ───────────────────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9        # required for UploadFile / Form
+
+# ── Vector store ──────────────────────────────────────────────────────────
+lancedb==0.12.0
+pyarrow==17.0.0
+
+# ── Embeddings ────────────────────────────────────────────────────────────
+open-clip-torch==2.26.1
+torch==2.3.0
+torchvision==0.18.0
+Pillow==10.4.0
+
+# ── HTTP / utilities ───────────────────────────────────────────────────────
+requests==2.32.3
+tqdm==4.66.4
+numpy==1.26.4
