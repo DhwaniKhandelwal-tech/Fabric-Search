@@ -151,19 +151,19 @@ curl http://localhost:8000/api/v1/stats
 ## Screenshots
 
 ### API Documentation (Swagger UI)
-![Swagger UI](screenshots/Screenshot 2026-05-28 at 10.54.21.png)
+![Swagger UI](screenshots/screenshot-swagger.png)
 
 ### Search by Image Endpoint
-![Search by Image](screenshots/Screenshot 2026-05-28 at 10.54.28.png)
+![Search by Image](screenshots/screenshot-image-search.png)
 
 ### Response Schema
-![Response Schema](screenshots/Screenshot 2026-05-28 at 10.54.35.png)
+![Response Schema](screenshots/screenshot-response.png)
 
 ### All Endpoints Overview
-![Endpoints](screenshots/Screenshot 2026-05-28 at 10.53.28 (2).png)
+![Endpoints](screenshots/screenshot-overview.png)
 
 ### Schemas
-![Schemas](screenshots/Screenshot 2026-05-28 at 10.54.05.png)
+![Schemas](screenshots/screenshot-schemas.png)
 
 
 ## How It Works
